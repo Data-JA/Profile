@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-# MSc Big Data Science
+### MSc Big Data Science
 
 _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
 
@@ -54,7 +54,7 @@ Digital Media and Social Networks _with Python_
 Data Analytics _with Python_
 * Prediction of next Tennis match win using K-means 
 
-# BSc Mathematics 
+#### BSc Mathematics 
 
 _Specialising in Statistics_ 
 
