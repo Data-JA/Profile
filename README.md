@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 ## MSc Big Data Science
 
-# Modules and Projects
-
 Applied Statistics _with R_
 * Time-series analysis from Twitter data 
 * Descriptive statistics and fitting probability distributions 
