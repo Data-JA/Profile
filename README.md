@@ -46,8 +46,8 @@ Bayesian Decision and Risk Analysis
 - Built a Bayesian Network model to illustrate and inform decision about the Sally Clark Appeal and Acquittal
 
 Digital Media and Social Networks _with Python_
-- Extracted Twitter’s APIs to gather social media data. 
-- Network analysis on a random generated Erdős–Rényi Graph. 
+_Extracted Twitter’s APIs to gather social media data_
+_Network analysis on a random generated Erdős–Rényi Graph_
 
 Data Analytics with Python
 * Prediction of next Tennis match win 
