@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # MSc Big Data Science
 
-Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R.
+_Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
 
 Applied Statistics _with R_
 * Time-series analysis from Twitter data 
@@ -55,6 +55,9 @@ Data Analytics _with Python_
 * Prediction of next Tennis match win using K-means 
 
 # BSc Mathematics 
+
+_Specialising in Statistics_ 
+
 Linear Statistical Models _with SAS_
 * Use of a computer statistical package to analyse real data sets.
 
