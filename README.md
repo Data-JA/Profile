@@ -1,4 +1,4 @@
-## Data Science Guthub Portfolio 
+## Data Science Github Portfolio 
 
 Hi i'm Jessica - a data science enthusiast with a heart for solving problems using data.
 
