@@ -1,4 +1,4 @@
-### Jessica A 👋
+### Hi there! My name is Jessica and welcome to my Github Porfolio.  👋
 
 <!--
 **Jessica-DS/Jessica-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
