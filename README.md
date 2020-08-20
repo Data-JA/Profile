@@ -46,6 +46,7 @@ Bayesian Decision and Risk Analysis
 - Built a Bayesian Network model to illustrate and inform decision about the Sally Clark Appeal and Acquittal
 
 Digital Media and Social Networks _with Python_
+
 _Extracted Twitter’s APIs to gather social media data_
 _Network analysis on a random generated Erdős–Rényi Graph_
 
