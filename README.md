@@ -1,4 +1,6 @@
-# Hi there! My name is Jessica and welcome to my Github Porfolio.  👋
+## Data Science Guthub Portfolio 
+
+Hi i'm Jessica - a data science enthusiast with a heart for solving problems using data.
 
 <!--
 **Jessica-DS/Jessica-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
