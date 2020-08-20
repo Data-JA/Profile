@@ -42,13 +42,20 @@ Natural Language Processing _with Python_
 * Coreference resolution
 
 Bayesian Decision and Risk Analysis
-* Built a Bayesian Network model to calculate dice probabilities
-* Built a Bayesian Network model to illustrate and inform decision about the Sally Clark Appeal and Acquittal
+- Built a Bayesian Network model to calculate dice probabilities
+- Built a Bayesian Network model to illustrate and inform decision about the Sally Clark Appeal and Acquittal
 
 Digital Media and Social Networks _with Python_
-* Extracted Twitter’s APIs to gather social media data. 
-* Network analysis on a random generated Erdős–Rényi Graph. 
+- Extracted Twitter’s APIs to gather social media data. 
+- Network analysis on a random generated Erdős–Rényi Graph. 
 
 Data Analytics with Python
 * Prediction of next Tennis match win 
+
+## BSc Mathematics 
+Linear Statistical Models _with SAS_
+- Use of a computer statistical package to analyse real data sets.
+•	Medical Statistical Models with SAS
+Applied various multivariable models to clinical data and reported conclusions clearly.
+Used statistical software to help carry out model fitting and analyses.
 
