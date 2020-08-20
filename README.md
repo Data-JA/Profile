@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## MSc Big Data Science
 
-# _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
+#### _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
 
 Applied Statistics _with R_
 * Time-series analysis from Twitter data 
