@@ -4,6 +4,7 @@ Hi i'm Jessica,
 I am enthusiastic about data and how it can be used to glean insights that have the potential to solve some of the world's problems, and provide valuable information that will help others. I hold a MSc in Big Data Science and a BSc in Mathematics (so yes! I'm a huge numbers person), details on my completed modules are below. This portfolio showcases projects completed in my own time. Enjoy :D !
 
 
+##   
 ## Projects
 
 Covid Deaths, Vaccinations and Manufacturers 
@@ -25,6 +26,7 @@ Credit Card Approval Prediction
 * Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
 
 
+##   
 ## MSc Big Data Science
 
 #### _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
@@ -63,6 +65,7 @@ Data Analytics _with Python_
 * Prediction of next Tennis match win using K-means 
 
 
+##   
 ## BSc Mathematics 
 
 _Specialising in Statistics_ 
