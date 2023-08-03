@@ -25,7 +25,7 @@ Health App Case Study
 * Exploratory Data Analysis and Logic Regression: Python
 
      
-[Credit Card Approval Prediction](https://pages.github.com/)
+[Credit Card Approval Prediction](https://pages.github.com/](https://github.com/Data-JA/credit-card-approval-prediction)
 * Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
 
 ##   
