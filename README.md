@@ -10,21 +10,21 @@ Covid Deaths, Vaccinations and Manufacturers
 * Exploratory Data Analysis: SQL
 * Data Visualiation: Tableau
 
-
+         
 London Air BnB, Resturants and Crime 
 * Exploratory Data Analysis: SQL
 * Data Visualiation: Tableau
 
-
+        
 Educational Data 
 * Data Cleaning and Exploratory Data Analysis: Excel
 * Data Visualiation: Excel
 
-
+        
 Health App Case Study
 * Exploratory Data Analysis and Logic Regression: Python
 
-
+     
 Credit Card Approval Prediction
 * Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
 
