@@ -11,17 +11,17 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 * Data Visualiation: [Tableau](link)
 
          
-London Air BnB, Resturants and Crime 
+[London Air BnB, Resturants and Crime](link)
 * Exploratory Data Analysis: SQL
 * Data Visualiation: [Tableau](link)
 
         
-Educational Data 
+[Educational Data](link) 
 * Data Cleaning and Exploratory Data Analysis: Excel
 * Data Visualiation: Excel
 
         
-Health App Case Study
+[Health App Case Study](link)
 * Exploratory Data Analysis and Logic Regression: Python
 
      
