@@ -21,7 +21,7 @@ Health App
 * Exploratory Data Analysis and Logic Regression: Python
 
 Credit Card Approval Prediction
-* Data Cleaning and Exploratory Data Analysis: Python
+* Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
 
 ## MSc Big Data Science
 
