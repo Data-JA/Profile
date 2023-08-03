@@ -1,4 +1,4 @@
-## Data Analyst/Science Github Portfolio 
+## Data Analyst/Science Portfolio 
 
 Hi i'm Jessica,
 I am enthusiastic about data and how it can be used to glean insights that have the potential to solve some of the world's problems, and provide valuable information that will help others. I hold a MSc in Big Data Science and a BSc in Mathematics (so yes! I'm a huge numbers person), details on my completed modules are below. This portfolio showcases projects completed in my own time. Enjoy :D !
