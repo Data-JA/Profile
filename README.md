@@ -75,7 +75,7 @@ Data Analytics _with Python_
 _Specialising in Statistics_ 
 
 Linear Statistical Models _with SAS_
-* Use of a computer statistical package to analyse real data sets
+* Use of a computer statistical package to analyse real datasets
 
 Medical Statistical Models _with SAS_
 * Applied various multivariable models to clinical data and reported conclusions clearly
