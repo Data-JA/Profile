@@ -18,7 +18,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
         
 [Educational Data](https://github.com/Data-JA/Education-Data) 
 * Data Cleaning and Exploratory Data Analysis: Excel
-* Data Visualiation: Excel
+* Data Visualisation: Excel
 
      
 [Credit Card Approval Prediction](https://github.com/Data-JA/credit-card-approval-prediction)
