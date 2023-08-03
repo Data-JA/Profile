@@ -21,7 +21,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 * Data Visualiation: Excel
 
         
-[Health App Case Study](link)
+[Health App Case Study](https://github.com/Data-JA/Health-App-Case-Study)
 * Exploratory Data Analysis and Logic Regression: Python
 
      
