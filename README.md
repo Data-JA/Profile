@@ -8,7 +8,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 
 [Covid Deaths, Vaccinations and Manufacturers](https://github.com/Data-JA/Covid-19-Deaths-Vaccinations-and-Manufacturers)
 
-         Investigated and analysed COVID-19 deaths, cases, and vaccine manufacturer data, and derive meaningful insights and trends, contributing to a comprehensive understanding of the pandemic's impact and vaccination efforts.
+Investigated and analysed COVID-19 deaths, cases, and vaccine manufacturer data, and derive meaningful insights and trends, contributing to a comprehensive understanding of the pandemic's impact and vaccination efforts.
 * Exploratory Data Analysis: SQL, Microsoft SQL Server 
 * Data Visualisation: [Tableau](link)
 
