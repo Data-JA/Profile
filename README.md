@@ -16,7 +16,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 * Data Visualisation: [Tableau](link)
 
         
-[Educational Data](link) 
+[Educational Data](https://github.com/Data-JA/Education-Data) 
 * Data Cleaning and Exploratory Data Analysis: Excel
 * Data Visualiation: Excel
 
