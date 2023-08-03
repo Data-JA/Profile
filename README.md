@@ -18,7 +18,7 @@ Educational Data
 * Data Cleaning and Exploratory Data Analysis: Excel
 * Data Visualiation: Excel
 
-Health App 
+Health App Case Study
 * Exploratory Data Analysis and Logic Regression: Python
 
 Credit Card Approval Prediction
