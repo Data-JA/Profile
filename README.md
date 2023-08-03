@@ -24,7 +24,10 @@ Investigated and analysed COVID-19 deaths, cases, and vaccine manufacturer data,
 
      
 [Credit Card Approval Prediction](https://github.com/Data-JA/credit-card-approval-prediction)
+
+Described how machine learning aids in the process of approving credit card applications for a traditional bank. This technique is used to improve and automate the system. The power of machine learning erdicates the manual analysing of these applications, which are often human error-prone and time consuming.
 * Data Wrangling, Exploratory Data Analysis and Machine Learning: Python
+
 
 ##   
 ## MSc Big Data Science
