@@ -20,10 +20,6 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 * Data Cleaning and Exploratory Data Analysis: Excel
 * Data Visualiation: Excel
 
-        
-[Health App Case Study](https://github.com/Data-JA/Health-App-Case-Study)
-* Exploratory Data Analysis and Logic Regression: Python
-
      
 [Credit Card Approval Prediction](https://github.com/Data-JA/credit-card-approval-prediction)
 * Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
