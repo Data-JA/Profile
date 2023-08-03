@@ -32,7 +32,7 @@ Described how machine learning aids in the process of approving credit card appl
 ##   
 ## MSc Big Data Science
 
-#### _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
+### _Dissertation: Bayesian Networks as Medical Support for Cervical Cancer with R_
 
 Applied Statistics _with R_
 * Time-series analysis from Twitter data 
