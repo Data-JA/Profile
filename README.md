@@ -11,7 +11,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 * Data Visualisation: [Tableau](link)
 
          
-[London Airbnb, Restaurants and Crime](link)
+[London Airbnb, Restaurants and Crime](https://github.com/Data-JA/London-Airbnb-Restaurants-and-Crime)
 * Exploratory Data Analysis: SQL
 * Data Visualisation: [Tableau](link)
 
