@@ -20,11 +20,11 @@ Investigated and analysed COVID-19 deaths, cases, and vaccine manufacturer data,
         
 [Educational Data](https://github.com/Data-JA/Education-Data) 
 * Data Wrangling and Exploratory Data Analysis: Excel
-* _Pivot Tables_
+ _Pivot Tables_
 
 [Product and Pricing Analysis](link) 
 * Data Wrangling and Exploratory Data Analysis: Excel
-* _VLOOKUP, IF Statements, Pivot Tables, Conditional Formatting_
+  _VLOOKUP, IF Statements, Pivot Tables, Conditional Formatting_
 
 [Credit Card Approval Prediction](https://github.com/Data-JA/credit-card-approval-prediction)
 
