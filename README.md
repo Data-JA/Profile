@@ -17,12 +17,12 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 
         
 [Educational Data](https://github.com/Data-JA/Education-Data) 
-* Data Cleaning and Exploratory Data Analysis: Excel
+* Data Wrangling and Exploratory Data Analysis: Excel
 * Data Visualisation: Excel
 
      
 [Credit Card Approval Prediction](https://github.com/Data-JA/credit-card-approval-prediction)
-* Data Cleaning, Exploratory Data Analysis and Logic Regression: Python
+* Data Wrangling, Exploratory Data Analysis and Machine Learning: Python
 
 ##   
 ## MSc Big Data Science
