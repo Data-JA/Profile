@@ -14,7 +14,7 @@ Investigated and analysed COVID-19 deaths, cases, and vaccine manufacturer data,
 
          
 [London Airbnb, Restaurants and Crime](https://github.com/Data-JA/London-Airbnb-Restaurants-and-Crime)
-* Exploratory Data Analysis: SQL
+* Exploratory Data Analysis: MySQL, SQL Workbench
 * Data Visualisation: [Tableau](link)
 
         
