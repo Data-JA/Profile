@@ -8,12 +8,12 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 
 [Covid Deaths, Vaccinations and Manufacturers](https://github.com/Data-JA/Covid-19-Deaths-Vaccinations-and-Manufacturers)
 * Exploratory Data Analysis: SQL
-* Data Visualiation: [Tableau](link)
+* Data Visualisation: [Tableau](link)
 
          
 [London Airbnb, Restaurants and Crime](link)
 * Exploratory Data Analysis: SQL
-* Data Visualiation: [Tableau](link)
+* Data Visualisation: [Tableau](link)
 
         
 [Educational Data](link) 
