@@ -7,7 +7,7 @@ I am enthusiastic about data and how it can be used to glean insights that have 
 ## Projects
 
 [Covid Deaths, Vaccinations and Manufacturers](https://github.com/Data-JA/Covid-19-Deaths-Vaccinations-and-Manufacturers)
-* Exploratory Data Analysis: SQL
+* Exploratory Data Analysis: SQL, Microsoft SQL Server 
 * Data Visualisation: [Tableau](link)
 
          
